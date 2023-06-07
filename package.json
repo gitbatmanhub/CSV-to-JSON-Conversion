@@ -1,12 +1,12 @@
 {
-  "name": "jelou",
+  "name": "csvtojson",
   "version": "1.0.0",
-  "description": "",
+  "description": "This Node.js code enables the conversion of a CSV file to a JSON file. It is a simple HTTP server that listens on port 3000 and provides a "/convert" route for performing the conversion.",
   "main": "index.js",
   "scripts": {
     "test": "nodemon index.js"
   },
-  "author": "",
+  "author": "gitbatmanhub",
   "license": "ISC",
   "dependencies": {
     "csv-parser": "^3.0.0",
